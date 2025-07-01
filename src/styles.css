@@ -9,3 +9,12 @@ h1 {
 p {
   text-align: center;
 }
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 0 10px;
+}
